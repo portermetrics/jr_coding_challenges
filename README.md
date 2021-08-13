@@ -497,7 +497,7 @@ Challenges are provided in the form of **IPython/Jupyter Notebooks** and have be
 Run the notebook of challenges:
 
 ```
-$ git clone https://github.com/donnemartin/interactive-coding-challenges.git
+$ git clone .git
 $ cd interactive-coding-challenges
 $ jupyter notebook
 ```
